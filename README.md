@@ -7,5 +7,5 @@ A) Marketing: The marketing team wants to launch some campaigns, and they need y
 4.Hashtag Researching: A partner brand wants to know, which hashtags to use in the post to reach the most people on the platform. Task: Identify and suggest the top 5 most commonly used hashtags on the platform
 5.Launch AD Campaign: The team wants to know, which day would be the best day to launch ADs. Task: What day of the week do most users register on? Provide insights on when to schedule an ad campaign
 B) Investor Metrics:
-User Engagement: Investors want to know if users are still active and posting on Instagram or if they are making fewer posts.
-Bots & Fake Accounts: Investors want to know if the platform is crowded with fake and dummy accounts.
+User Engagement: Investors want to know if users are still active and posting on Instagram or if they are making fewer posts.Task: Calculate the average number of posts per user on Instagram. Also, provide the total number of photos on Instagram divided by the total number of users.
+Bots & Fake Accounts: Investors want to know if the platform is crowded with fake and dummy accounts.Task: Identify users (potential bots) who have liked every single photo on the site, as this is not typically possible for a normal user.
